@@ -28,5 +28,12 @@
 ## Sign-Language Production(Generation)
 | Venue | Year | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|
-
-
+| AAAI | 2025 | [Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production](https://arxiv.org/pdf/2412.13609) | [Code](https://github.com/NaVi-start/Sign-IDD) |  |
+| CVPR | 2025 | [Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations](https://arxiv.org/pdf/2411.16810) | None |  |
+| AAAI | 2024 | [G2P-DDM: Generating Sign Pose Sequence from Gloss Sequence with Discrete Diffusion Model](https://arxiv.org/pdf/2208.09141) | [Code](https://github.com/Anynoumsiccv9970/G2P-DDM) |  |
+| ACM MM | 2024 | [Gloss-driven Conditional Diffusion Models for Sign Language Production](https://dl.acm.org/doi/pdf/10.1145/3663572) | None |  |
+| SEM | 2023 | [Including Facial Expressions in Contextual Embeddings for Sign Language Generation](https://arxiv.org/pdf/2202.05383) | None |  |
+| ACM MM | 2022 | [Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production](https://dl.acm.org/doi/pdf/10.1145/3503161.3547830) | None |  |
+| ACM MM | 2021 | [Towards Fast and High-Quality Sign Language Production](https://dl.acm.org/doi/pdf/10.1145/3474085.3475463) | None |  |
+| IJCV | 2021 | [Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Network](https://arxiv.org/pdf/2103.06982) | None |  |
+| ECCV | 2020 | [Progressive Transformers for End-to-End Sign Language Production](https://arxiv.org/pdf/2004.14874) | [Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP) |  |
